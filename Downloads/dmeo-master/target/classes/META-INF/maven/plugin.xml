@@ -1,0 +1,11 @@
+<plugin>
+  <description>Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/</description>
+  <groupId>io.apigee.build-tools.enterprise4g</groupId>
+  <artifactId>apigee-edge-maven-plugin</artifactId>
+  <version>1.1.8-SNAPSHOT</version>
+  <goalPrefix>apigee-enterprise</goalPrefix>
+  <isolatedRealm>false</isolatedRealm>
+  <inheritedByDefault>true</inheritedByDefault>
+  <mojos/>
+  <dependencies/>
+</plugin>

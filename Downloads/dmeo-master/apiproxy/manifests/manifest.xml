@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="OAuth-v20-1" version="SHA-512:78db1e14553ccccebdaf23edd92249f171558705da292de47d0fcfdb50cb5d8a840d008dc00ae94307fafe47402c003717b3e6e00e40aa1b02b06b4964f23aeb"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:401a5265865801929c878ad6506d0a8a692187a3bbfb7a8552475a5bd49ea216845de9fc330626cd06c6b1f6d5cc179a64fc3890c0a82858f20b57a6291893b1"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:95ae9e6a63967246aa7c920228cdb13464d878634f581103466946f6c74e3571e5d3054e008f3067861eb2d68f959a5102a2798b6c4aab2c346546a3369ce97f"/>
+    </TargetEndpoints>
+</Manifest>

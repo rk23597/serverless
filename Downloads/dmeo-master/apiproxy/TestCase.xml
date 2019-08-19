@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="TestVersion">
+    <Basepaths>/code</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1562239861268</CreatedAt>
+    <CreatedBy>rakesh.kumawat@neosalpha.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>CodeMaven</DisplayName>
+    <LastModifiedAt>1563193348643</LastModifiedAt>
+    <LastModifiedBy>rakesh.kumawat@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:fb3d0de39234435c5abaa57021e5c0c6954e0002de4eb5ce864550f9422e8ab663cadf02e1bffede46b422d2107edda1f3f379157d08b441b45bc6d4b084afda</ManifestVersion>
+    <Policies>
+        <Policy>OAuth-v20-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
